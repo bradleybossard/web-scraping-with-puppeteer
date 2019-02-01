@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bradleybossard/web-scraping-with-puppeteer/issues"
   },
-  "homepage": "https://github.com/bradleybossard/web-scraping-with-puppeteer#readme"
+  "homepage": "https://github.com/bradleybossard/web-scraping-with-puppeteer#readme",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "puppeteer": "1.12.0"
+  }
 }
